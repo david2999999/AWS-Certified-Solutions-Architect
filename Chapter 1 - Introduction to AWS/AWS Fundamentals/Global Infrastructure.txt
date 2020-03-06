@@ -19,3 +19,6 @@ Global Infrastructure
             - Availability zones are all redundantly connected to multiple tier-1 transit providers.
                 - By placing resources in separate Availability zones, you can protect your website or application from a service disruption
                   impacting a single location.
+
+        - Users can achieve high availability by deploying their application across multiple availability zones.
+            - Redundant instances for each tier (Web, application, and database) should be placed in distinct Availability Zones, creating a multi-site solution
