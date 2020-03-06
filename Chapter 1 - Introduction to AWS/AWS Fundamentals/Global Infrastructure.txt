@@ -1,0 +1,10 @@
+Global Infrastructure
+    - AWS serves over one million active customers in more than 190 countries.
+        - It continues to expand its global infrastructure steadily to help organizations
+          achieve lower latency and higher throughput for their business needs
+    - Highly available technology infrastructure platform with multiple locations
+        - The locations are composed of regions and availability zones
+            - Each region is a separate geographic area
+            - Each region has multiple, isolated locations known as Availability zones
+                - The placement of resources and data in multiple locations and resources are not replicated
+                  across regions unless organizations choose to do so.
