@@ -7,3 +7,5 @@ Accessing the Platform
         - The console provides an intuitive user interface for performing tasks
         - Each service has its own console, which can be accessed from AWS Management Console.
         - This console also provides information about the account and billing
+    - The AWS Command Line Interface (CLI) is a unified tool used to manage AWS Cloud Services.
+        - You are able to control multiple services from the command line and automate them through scripts.
