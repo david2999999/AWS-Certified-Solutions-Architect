@@ -9,3 +9,6 @@ Accessing the Platform
         - This console also provides information about the account and billing
     - The AWS Command Line Interface (CLI) is a unified tool used to manage AWS Cloud Services.
         - You are able to control multiple services from the command line and automate them through scripts.
+    - The AWS Software Development Kits (SDKs) provide an API that interacts with the web services that makes up the AWS Platform.
+        - The SDK provide support for many different programming languages and platforms
+        - You can make HTTP calls directly to the web service endpoints, but using the SDK provides the abstraction on communicating with the services.
