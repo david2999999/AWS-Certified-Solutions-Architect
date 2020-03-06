@@ -21,3 +21,13 @@ Increase Speed and Agility
     - Organizations can reduce the time it takes to make those resources available to developers.
     - Increase speed and agility because the time it takes for experimentation and development of computing resources
       is significantly lower.
+
+Focus on Business Differentiators
+    - Allowing businesses to focus on their business priorities
+        - They do not need to worry about the heavy lifting of racking, stacking and powering servers
+    - Organizations can stop spending money on running and maintaining data centers
+    - This allows organizations to focus on projects that differentiate their business
+        - Analyzing petabytes of data
+        - Delivering video content
+        - Building great mobile applications
+        - Exploring Mars
