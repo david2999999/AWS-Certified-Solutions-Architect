@@ -35,3 +35,5 @@ Gotcha
         - replacing up-front capital infrastructure expenses with low variable costs that scale with your business
             - Businesses no longer need to plan for and procure servers and other IT infrastructures weeks or months in advance.
             - They can instantly spin up hundred or thousands of servers in minutes and deliver faster results.
+    - Currently, AWS provides a highly reliable, scalable and low-cost infrastructure platform in the cloud that powers
+      hundreds of thousands of businesses.
