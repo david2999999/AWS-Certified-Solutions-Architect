@@ -8,3 +8,10 @@ Economies of Scale
         - Cloud computing allows users to achieve a lower variable cost than they would on their own.
         - This is because of the usage from hundreds of thousands of customers is aggregated in the cloud
             - Providers such as AWS can achieve higher economies of scale, which translate into lower prices
+
+Stop Guessing Capacity
+    - When you make a capacity decision prior to deploying an application, you usually end up sitting on expensive idle
+      resources or dealing with limited capacity
+    - Cloud computing allows organizations to stop guessing the capacity requirement for their infrastructure
+        - They have access to as much or as little as they need
+        - They are able to scale up or down with only a few minutes notice
