@@ -3,3 +3,17 @@ Security and Compliance
     - Security is a core functional requirement that protects mission-critical information from accidental or deliberate theft, leakage,
       integrity compromise and deletion.
     - By helping to protect the confidentiality, integrity and availability of systems and data, AWS is able to maintain the trust and confidence of users.
+
+Security
+    - Cloud security at AWS is number one priority
+        - AWS customers benefit from data center and network architectures built to satisfy the requirements of the most security sensitive organizations.
+    - AWS and its partners offer hundreds of tools and features to allow customers meet their security objective for
+        - Visibility
+        - Auditability
+        - Controllability
+        - Agility
+    - Organizations can have the security they need, but without the capital outlay and with much lower operational overhead than in an on-premises environment
+    - Organizations can inherit the best practices of AWS policies, architecture, and operational processes built to satisfy the requirements of the most
+      sensitive customers.
+    - AWS provides high availability while putting safeguards in place regarding customer privacy and segregation
+    - AWS uses redundant and layered controls, continuous validation and testing, and automation to ensure that the underlying infrastructure is monitored and protected 24/7
