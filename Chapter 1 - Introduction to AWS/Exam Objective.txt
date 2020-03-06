@@ -1,0 +1,16 @@
+Exam Objective
+    1) Designing highly available, cost-efficient, fault-tolerant and scalable systems
+        - Identity and recognize cloud architecture considerations, such as fundamental components and effective design
+            - How to design cloud services
+            - Planning and Design
+            - Best practices for AWS architecture
+            - Hybrid Information Technology (IT) architectures
+                - AWS Direct Connect
+                - AWS Storage Gateway
+                - Amazon Virtual Private Cloud (Amazon VPC)
+                - AWS Directory Service
+            - Elasticity and scalability
+                - Auto Scaling
+                - Amazon Simple Queue Service
+                - Elastic Load Balancing
+                - Amazon CloudFront
