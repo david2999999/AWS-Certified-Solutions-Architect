@@ -1,0 +1,14 @@
+AWS Fundamentals
+    - AWS provides on-demand delivery of IT resources via the internet on a secure cloud server platform offering
+        - Compute Power
+        - Storage
+        - Databases
+        - Content delivery
+        - Other functionalities to help businesses scale and grow
+    - Using AWS is similar to purchasing electricity from a power company instead of running your own generator
+        - Getting IT resources from the cloud, instead of buying a server of your own
+    - The Key Advantages are
+        - Capacity that matches your needs
+        - Pay for what you use
+        - Economies of scale, which results in lower costs
+        - Services that are provided by a vendor experienced in running large-scale networks
