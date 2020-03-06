@@ -10,3 +10,10 @@ All-in Cloud-Based Deployment
     - Cloud based applications has can be built on
         - Low level infrastructure pieces
         - High level infrastructure that provides an abstraction from the management, architecting, and scaling requirements of core infrastructure
+
+Hybrid Deployment
+    - Common approach taken by many enterprises
+        - connects infrastructure and applications between cloud-based resources and existing resources, typically in existing data center
+    - Hybrid deployment allows cloud resources to extend and grow an organization's existing infrastructure.
+        - This is because choosing between an existing investment in infrastructure and moving to cloud does not need to be a binary decision
+        - The user can make decisions on choosing cloud, existing infrastructure or a hybrid
