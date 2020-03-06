@@ -1,0 +1,4 @@
+Variable vs Capital Expense
+    - The ability to trade capital expense for variable operational expense
+        - Do not need to invest heavily in data centers and servers before knowing how much you are going to use them
+        - Cloud computing allows users to pay only when they consume computing resources and pay for how much they consume.
