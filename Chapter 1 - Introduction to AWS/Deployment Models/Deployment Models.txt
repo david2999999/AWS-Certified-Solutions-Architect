@@ -1,0 +1,12 @@
+Cloud Computing Deployment Models
+    - The two primary cloud computing deployment models are
+        - "all-in" cloud-based deployment
+        - hybrid deployment
+
+All-in Cloud-Based Deployment
+    - Fully deployed in the cloud
+        - All components of the application runs in the cloud
+    - Applications can either be created in the cloud or have been migrated from an existing infrastructure to take advantage of the benefit of cloud computing
+    - Cloud based applications has can be built on
+        - Low level infrastructure pieces
+        - High level infrastructure that provides an abstraction from the management, architecting, and scaling requirements of core infrastructure
