@@ -15,3 +15,9 @@ Stop Guessing Capacity
     - Cloud computing allows organizations to stop guessing the capacity requirement for their infrastructure
         - They have access to as much or as little as they need
         - They are able to scale up or down with only a few minutes notice
+
+Increase Speed and Agility
+    - New IT resources are one click away
+    - Organizations can reduce the time it takes to make those resources available to developers.
+    - Increase speed and agility because the time it takes for experimentation and development of computing resources
+      is significantly lower.
