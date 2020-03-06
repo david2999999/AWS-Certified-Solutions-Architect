@@ -1,0 +1,5 @@
+Security and Compliance
+    - Information security is of paramount importance to organizations running critical workloads
+    - Security is a core functional requirement that protects mission-critical information from accidental or deliberate theft, leakage,
+      integrity compromise and deletion.
+    - By helping to protect the confidentiality, integrity and availability of systems and data, AWS is able to maintain the trust and confidence of users.
