@@ -31,3 +31,8 @@ Focus on Business Differentiators
         - Delivering video content
         - Building great mobile applications
         - Exploring Mars
+
+Go Global in Minutes
+    - Organizations can easily deploy their applications to multiple locations around the world
+    - Allowing organizations to provide redundancy across the globe and delivery low latency and better experience to their customer at minimal cost
+    - Going global used to be something only the largest enterprise could afford to do, but cloud computing allows this idea for any organization
