@@ -8,3 +8,14 @@ Global Infrastructure
             - Each region has multiple, isolated locations known as Availability zones
                 - The placement of resources and data in multiple locations and resources are not replicated
                   across regions unless organizations choose to do so.
+
+        - Each region is completely independent and is designed to be completely isolated from other regions.
+            - This help to achieve greatest possible fault tolerance and stability
+
+        - Each availability zone is also isolated, but each zone in a region are connected through low-latency links
+            - The zones are physically separated within a typical region and are located in lower-risk flood plains.
+            - They also use a discrete uninterruptable power supply (UPS) and on-site backup generators.
+            - Fed via different grids from independent utilities (when available) to reduce single points of failure.
+            - Availability zones are all redundantly connected to multiple tier-1 transit providers.
+                - By placing resources in separate Availability zones, you can protect your website or application from a service disruption
+                  impacting a single location.
