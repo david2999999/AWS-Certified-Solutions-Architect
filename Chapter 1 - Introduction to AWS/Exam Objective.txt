@@ -30,4 +30,8 @@ Exam Objective
 
 Gotcha
     - In 2006, Amazon Web Services, Inc. (AWS) began offering IT infrastructure services to businesses in the form
-        of web services, now commonly known as cloud
+        of web services, now commonly known as cloud computing.
+    - Benefits of clouding computing are
+        - replacing up-front capital infrastructure expenses with low variable costs that scale with your business
+            - Businesses no longer need to plan for and procure servers and other IT infrastructures weeks or months in advance.
+            - They can instantly spin up hundred or thousands of servers in minutes and deliver faster results.
