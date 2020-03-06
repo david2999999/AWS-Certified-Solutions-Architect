@@ -15,3 +15,13 @@ What is Cloud Computing?
             - Broad set of application services
         - AWS providers will own and maintain the network-connected hardware required for these application services
             - The users can provision and use what they need for their workload
+
+Advantages to Cloud Computing
+    - Revolutionary shift in how technology is obtained, used and managed
+    - Organizations can budget and pay for technology services
+    - The ability of being able to reconfigure the computing environment allows businesses
+        - to quickly adapt to changing business
+        - optimize spending based on need
+    - The capacities of the services can be automatically be scaled up or down based on usage patterns
+    - Services can be temporarily turned off or shut down permanently as business demands.
+    - The pay per use aspect allows AWS to be an operational expense instead of a capital expense
