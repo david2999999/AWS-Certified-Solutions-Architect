@@ -14,6 +14,14 @@ Security
         - Agility
     - Organizations can have the security they need, but without the capital outlay and with much lower operational overhead than in an on-premises environment
     - Organizations can inherit the best practices of AWS policies, architecture, and operational processes built to satisfy the requirements of the most
-      sensitive customers.
+      security-sensitive customers.
     - AWS provides high availability while putting safeguards in place regarding customer privacy and segregation
     - AWS uses redundant and layered controls, continuous validation and testing, and automation to ensure that the underlying infrastructure is monitored and protected 24/7
+
+Compliance
+    - When customers move their production workload to AWS, both parties becomes responsible in managing the IT environment
+        - Customers are responsible for setting up their environment in a secure and controlled manner
+        - Customers need to maintain adequate governance over their entire IT control environment
+        - AWS provides governance-focused, audit-friendly services with applicable compliance or audit standards.
+            - This allows customers to build on traditional compliance programs
+            - This helps organizations establish and operate in an AWS security control environment
