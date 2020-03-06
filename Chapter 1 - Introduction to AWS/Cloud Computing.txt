@@ -1,0 +1,17 @@
+What is Cloud Computing?
+    - Cloud computing is the on-demand delivery of IT resources and applications via the Internet with pay-as-you-go pricing
+        - It allows users to
+            - Run application that share photos to million of mobile users
+            - Support critical operations in their businesses
+            - Have rapid access to flexible and low-cost IT resources
+        - The user does not need make large up-front investments in hardware and spending a lot of time managing those hardware
+        - The user can provision exactly the right type and size of computing resources that he/she needs for their use.
+            - Cloud computing allows user to access as many resources as they need, almost instantly, and only pay for what they use.
+    - In the simplest form
+        - Cloud computing provides easy access to
+            - Servers
+            - Storage
+            - Database
+            - Broad set of application services
+        - AWS providers will own and maintain the network-connected hardware required for these application services
+            - The users can provision and use what they need for their workload
