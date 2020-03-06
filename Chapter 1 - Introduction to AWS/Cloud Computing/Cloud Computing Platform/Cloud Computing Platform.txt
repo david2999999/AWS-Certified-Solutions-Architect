@@ -1,0 +1,9 @@
+Accessing the Platform
+    - To access AWS Cloud Services, you can use
+        - AWS Management Console
+        - AWS Command Line Interface (CLI)
+        - AWS Software Development Kit (SDK)
+    - The AWS Management Console is a web application for managing AWS Cloud services.
+        - The console provides an intuitive user interface for performing tasks
+        - Each service has its own console, which can be accessed from AWS Management Console.
+        - This console also provides information about the account and billing
