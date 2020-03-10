@@ -38,3 +38,9 @@ Amazon Virtual Private Cloud (Amazon VPC)
         - software virtual private network connections
         - AWS direct connect
 
+AWS Direct Connect
+    - Allows organizations to establish a dedicated network connection from their data center to AWS
+    - Established private connectivity between AWS and their data center, office, or colocation environment
+        - reduce network costs
+        - increase bandwidth throughput
+        - more consistent network experience than Internet-based VPN connections
