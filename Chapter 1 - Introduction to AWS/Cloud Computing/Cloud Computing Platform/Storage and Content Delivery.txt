@@ -26,3 +26,9 @@ Amazon Elastic Block Store (Amazon EBS)
     - Each Amazon EBS volume is automatically replicated within its Availability zones to protect organizations from
       component failure, offering high availability and durability
     - Delivery consistent and low latency performance
+
+AWS Storage Gateway
+    - Service to connect an on-premises software appliance with cloud based storage
+    - Seamless and secure integration between an organization's on-premises IT environment and the AWS storage infrastructure
+    - Low latency performance by maintaining a cache of frequently accessed data on-premises while securely storing all of your
+      data encrypted in Amazon S3 or Amazon glacier.
