@@ -15,6 +15,12 @@ Amazon Simple Storage Service (Amazon S3)
         - cloud applications
         - content distribution
 
+Amazon Glacier
+    - Secure, durable, and extremely low-cost storage service for data archiving and long-term backup
+    - Store large or small amounts of data for a very low cost per gigabyte per month
+    - Optimized for infrequently accessed data where a retrieval time of several hours is suitable
+    - Integrated closely with Amazon S3
+
 Amazon Elastic Block Store (Amazon EBS)
     - Provides persistent block-level storage volumes for use with Amazon EC2 instances
     - Each Amazon EBS volume is automatically replicated within its Availability zones to protect organizations from
