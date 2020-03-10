@@ -32,3 +32,13 @@ AWS Storage Gateway
     - Seamless and secure integration between an organization's on-premises IT environment and the AWS storage infrastructure
     - Low latency performance by maintaining a cache of frequently accessed data on-premises while securely storing all of your
       data encrypted in Amazon S3 or Amazon glacier.
+
+Amazon CloudFront
+    - Content delivery web service
+    - Integrates with other AWS Cloud services to give developers and businesses an easy way to distribute content to users across the world
+        - Low latency
+        - High data transfer speeds
+        - No minimum usage commitments
+    - Contents may include web videos or other bulky media
+    - Requests for content are automatically routed to the nearest edge location, so content is delivered with the best possible performance to
+      end users around the globe
