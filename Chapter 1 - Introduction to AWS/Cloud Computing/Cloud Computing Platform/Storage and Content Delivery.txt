@@ -14,3 +14,9 @@ Amazon Simple Storage Service (Amazon S3)
         - disaster recovery
         - cloud applications
         - content distribution
+
+Amazon Elastic Block Store (Amazon EBS)
+    - Provides persistent block-level storage volumes for use with Amazon EC2 instances
+    - Each Amazon EBS volume is automatically replicated within its Availability zones to protect organizations from
+      component failure, offering high availability and durability
+    - Delivery consistent and low latency performance
