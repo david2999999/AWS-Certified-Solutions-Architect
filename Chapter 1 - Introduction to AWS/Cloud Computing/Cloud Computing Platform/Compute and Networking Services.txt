@@ -26,6 +26,16 @@ Elastic Load Balancing
     - Achieve greater level of fault tolerance in applications
     - Seamlessly providing the required amount of load balancing capacity needed to distribute application traffic
 
+AWS Elastic Beanstalk
+    - Fastest and simplest way to get a web application up and running
+    - Developers can simply upload their application code and the service handles all of the details
+        - Resource provisioning
+        - Load balancing
+        - Auto Scaling
+        - Monitoring
+    - It support a variety of platforms
+    - Organization retains full control over the AWS resources and can access the underlying resource any time
+
 Amazon Virtual Private Cloud (Amazon VPC)
     - Allows organizations provision a logically isolated section of the AWS Cloud where they can launch AWS resources in a virtual network
     - Organizations have complete control over the virtual environment
