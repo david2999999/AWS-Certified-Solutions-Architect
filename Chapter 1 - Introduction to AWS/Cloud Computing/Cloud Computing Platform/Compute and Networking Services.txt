@@ -26,3 +26,15 @@ Elastic Load Balancing
     - Achieve greater level of fault tolerance in applications
     - Seamlessly providing the required amount of load balancing capacity needed to distribute application traffic
 
+Amazon Virtual Private Cloud (Amazon VPC)
+    - Allows organizations provision a logically isolated section of the AWS Cloud where they can launch AWS resources in a virtual network
+    - Organizations have complete control over the virtual environment
+        - Selection of IP address range
+        - creation of subnets
+        - configuration of route tables
+        - network gateways
+    - Organizations can extend their corporate data center networks to AWS by using
+        - hardware
+        - software virtual private network connections
+        - AWS direct connect
+
