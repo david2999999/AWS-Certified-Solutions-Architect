@@ -20,3 +20,9 @@ Auto Scaling
     - Allows organizations to scale Amazon EC2 capacity up or down automatically according to conditions defined for the particular workload
     - Help maintain application availability and ensure that the desired number of Amazon EC2 instances are running
     - Well suited both to applications that have stable demand patterns and to applications that experience variability in usage
+
+Elastic Load Balancing
+    - Automatically distributes incoming application traffic across multiple Amazon EC2 instances in the cloud
+    - Achieve greater level of fault tolerance in applications
+    - Seamlessly providing the required amount of load balancing capacity needed to distribute application traffic
+
