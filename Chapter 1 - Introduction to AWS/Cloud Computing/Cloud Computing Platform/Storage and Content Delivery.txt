@@ -1,1 +1,16 @@
 Storage and Content Delivery
+    - AWS provides a variety of services to meet customer's storage needs.
+
+Amazon Simple Storage Service (Amazon S3)
+    - Provides developers and IT teams with highly durable and scalable object storage that handles virtually unlimited amount of data
+    - It also handles large numbers of concurrent users
+    - Organizations can store any number of objects of any type
+        - HTML pages, source code files, image files, and encrypted data
+    - Objects can be accessed via HTTP-based protocols
+    - Provides cost-effective object storage for a wide variety of uses
+        - Backup and recovery
+        - Nearline archive
+        - Big data analytics
+        - disaster recovery
+        - cloud applications
+        - content distribution
