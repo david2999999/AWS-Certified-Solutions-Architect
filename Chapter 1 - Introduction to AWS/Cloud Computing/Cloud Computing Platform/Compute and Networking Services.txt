@@ -44,3 +44,9 @@ AWS Direct Connect
         - reduce network costs
         - increase bandwidth throughput
         - more consistent network experience than Internet-based VPN connections
+
+Amazon Route 53
+    - Highly available and scalable Domain Name System web service
+    - Extremely reliable and cost-effective way to route end users to internet applications
+        - translating human readable names into numeric IP addresses
+    - Also services as domain registrar, allowing users to purchase and manage domains directly from AWS
