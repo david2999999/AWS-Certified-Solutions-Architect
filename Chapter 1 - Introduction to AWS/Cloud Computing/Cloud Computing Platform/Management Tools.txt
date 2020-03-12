@@ -15,3 +15,12 @@ AWS CloudFormation
             2) Save locally or in S3 bucket
             3) Use AWS CloudFormation to create a stack based on your template
             4) AWS CloudFormation constructs and configures the specific stack resources
+
+AWS CloudTrail
+    - Web service that records AWS API calls for an account and delivers log files for audit and review
+    - Record information includes
+        - identity of the API caller
+        - the time of the API call
+        - Source API address of the API caller
+        - request parameters
+        - response elements returned by the service
