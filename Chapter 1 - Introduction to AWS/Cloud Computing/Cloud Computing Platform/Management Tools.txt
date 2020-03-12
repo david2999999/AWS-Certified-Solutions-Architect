@@ -1,0 +1,8 @@
+Management Tools
+    - AWS provides a variety of tools that help organizations manage your AWS resources
+
+Amazon CloudWatch
+    - Monitoring service for AWS Cloud resources and applications running on AWS
+        - Allows organizations to collect and track metrics, collect and monitor log files and set alarms
+    - Organizations can gain system wide visibility into resource utilization, application performance, and operational health
+        - These insights allows organizations to react, as necessary, to keep applications running smoothly.
