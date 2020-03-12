@@ -16,3 +16,9 @@ Amazon DynamoDB
     - It's a fully managed, multiregion, multimaster, durable database with build-in security, backup and restore, and in-memory caching for internet-scale applications
         - Can handle more than 10 trillion requests per day, and can support peaks of more than 20 million requests per second
     - Single digit millisecond response time at any scale
+
+Amazon Redshift
+    - Fast, fully managed, petabyte-scale data warehouse services that makes it simple and cost effective to analyze structured data
+        - Designed for large scale data set storage and analysis
+    - provides a standard SQL interface that lets organizations use existing business intelligence tools
+    - Allows organizations to automate most of the common administrative tasks associated with provisioning, configuring, and monitoring a cloud data warehouse.
