@@ -1,0 +1,10 @@
+Database Services
+    - AWS provides fully managed relational and NoSQL database services
+        - In-memory caching as a service
+        - Petabyte-scale data warehouse solution
+
+Amazon Relational Database service (Amazon RDS)
+    - Provides a fully managed relational database with support for many popular open source and commercial database engines
+    - Cost-efficient service that allows organizations to launch secure, highly available, fault tolerant, production-ready databases in minutes
+        - Amazon RDS manages time-consuming administration tasks, including backups, software patching, monitoring, and replication
+        - Organizational resources can focus on revenue generating applications and business instead of mundane operational tasks
