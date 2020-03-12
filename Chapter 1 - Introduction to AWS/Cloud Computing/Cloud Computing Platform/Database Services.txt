@@ -22,3 +22,7 @@ Amazon Redshift
         - Designed for large scale data set storage and analysis
     - provides a standard SQL interface that lets organizations use existing business intelligence tools
     - Allows organizations to automate most of the common administrative tasks associated with provisioning, configuring, and monitoring a cloud data warehouse.
+
+Amazon ElastiCache
+    - Web service that simplifies deployment, operation and scaling of an in-memory cache in the cloud
+    - Improves the performance of web applications by allowing organizations to retrieve information from fast, managed, in-memory caches instead of relying on slower, disk-based databases
