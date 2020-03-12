@@ -8,3 +8,11 @@ Amazon Relational Database service (Amazon RDS)
     - Cost-efficient service that allows organizations to launch secure, highly available, fault tolerant, production-ready databases in minutes
         - Amazon RDS manages time-consuming administration tasks, including backups, software patching, monitoring, and replication
         - Organizational resources can focus on revenue generating applications and business instead of mundane operational tasks
+
+Amazon DynamoDB
+    - Fast and flexible NoSQL database service
+    - Fully supports both document and key/value data models
+        - its flexible data model and reliable performance make it a great fit for mobile, web, gaming, ad-tech, IoT, and many other applications
+    - It's a fully managed, multiregion, multimaster, durable database with build-in security, backup and restore, and in-memory caching for internet-scale applications
+        - Can handle more than 10 trillion requests per day, and can support peaks of more than 20 million requests per second
+    - Single digit millisecond response time at any scale
