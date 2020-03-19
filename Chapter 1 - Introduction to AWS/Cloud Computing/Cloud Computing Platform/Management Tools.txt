@@ -24,3 +24,13 @@ AWS CloudTrail
         - Source API address of the API caller
         - request parameters
         - response elements returned by the service
+
+AWS Config
+    - Provides organizations with an AWS resource inventory, configuration history, and configuration change notifications to enable security and governance
+    - Organizations can discover existing AWS resources, export an inventory of their AWS resources with all configuration details
+        - They can also determine how a resource was configured at any point in time.
+            - This enables
+                - Compliance auditing
+                - Security analysis
+                - Resource change tracking
+                - Troubleshooting
