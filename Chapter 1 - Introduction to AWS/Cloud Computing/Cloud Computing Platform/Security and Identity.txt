@@ -1,0 +1,6 @@
+Security and Identity
+    - AWS provides security and identity services that help organizations secure their data and system on the cloud
+
+AWS Identity and Access Management (IAM)
+    - Allows organizations to securely control access to AWS Cloud services and resources for their users
+    - Organizations can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources
