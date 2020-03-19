@@ -27,3 +27,10 @@ AWS Certificate Manager
         - Elastic Load Balancing
         - Amazon CloudFront distributions
     - The manage also automatically renew the certificate when expired.
+
+AWS Web Application Firewall (WAF)
+    - Helps protect web applications from common attacks and exploits that affect application's
+        - Availability
+        - Compromise security
+        - Consume excessive resources
+    - Organizations have control over which traffic to allow or block to their web applications by defining customizable web security rules
