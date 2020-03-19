@@ -9,3 +9,13 @@ AWS Key Management Service (KMS)
     - Organizations can create and control the encryption keys used to encrypt their data
         - Hardware Security Modules (HSMs) are used to protect the security of the keys
     - AWS KMS is integrated with other AWS Cloud services to help protect data stored with those services
+
+AWS Directory Service
+    - Organizations can set up and run Microsoft Active Directory on the AWS Cloud
+        - They are also able to connect their AWS resources with an existing on-premises Microsoft Active Directory
+    - The features includes
+        - Manage users and groups
+        - Provide single sign-on to applications and services
+        - Create and apply group policies
+        - Domain join Amazon EC2 instances
+        - Simplify the deployment and management of cloud-based Linux and Microsoft Windows workloads
