@@ -19,3 +19,11 @@ AWS Directory Service
         - Create and apply group policies
         - Domain join Amazon EC2 instances
         - Simplify the deployment and management of cloud-based Linux and Microsoft Windows workloads
+
+AWS Certificate Manager
+    - Organizations can provision, manage and deploy (SSL/TLS) certificates for use with AWS Cloud services
+    - This removes the time consuming manual process of purchasing, uploading and renewing SSL/TLS certificates
+    - Organizations can quickly request a certification, deploy it on AWS resources such as
+        - Elastic Load Balancing
+        - Amazon CloudFront distributions
+    - The manage also automatically renew the certificate when expired.
