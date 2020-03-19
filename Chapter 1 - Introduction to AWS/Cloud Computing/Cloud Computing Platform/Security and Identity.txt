@@ -4,3 +4,8 @@ Security and Identity
 AWS Identity and Access Management (IAM)
     - Allows organizations to securely control access to AWS Cloud services and resources for their users
     - Organizations can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources
+
+AWS Key Management Service (KMS)
+    - Organizations can create and control the encryption keys used to encrypt their data
+        - Hardware Security Modules (HSMs) are used to protect the security of the keys
+    - AWS KMS is integrated with other AWS Cloud services to help protect data stored with those services
