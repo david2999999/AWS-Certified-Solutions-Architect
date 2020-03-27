@@ -1,0 +1,14 @@
+Application Services
+    - AWS provides a variety of managed services to use with applications
+
+Amazon API Gateway
+    - fully managed service that makes it easy for developers to create, publish, maintain, monitor and secure
+      APIs at any scale
+    - The API can act as a 'front door' for applications to access data, business logic, or functionality from
+      back-end services
+        - These services include workloads running on Amazon EC2, AWS Lambda or any web application
+    - Handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls
+        - Traffic management
+        - Authorization and access control
+        - Monitoring
+        - API version management
