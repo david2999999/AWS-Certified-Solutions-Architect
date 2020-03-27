@@ -29,3 +29,9 @@ Amazon Simple Email Service (Amazon SES)
     - cost effective email service that organizations can use to send transactional email, marketing messages, or any type
       of content to their customers
     - It also can be used to receive messages and delivery them to an Amazon S3 bucket or publish notifications to Amazon SNS
+
+Amazon Simple Workflow Service (Amazon SWF)
+    - Helps developers build, run, and scale background jobs that have parallel or sequential steps
+    - Fully managed state tracker and task coordinator in the cloud
+        - If an application's step take more than 500 millisecond to complete, it is vitally important to track
+          the state of processing and to provide the ability to recover or retry if the task fails
