@@ -24,3 +24,8 @@ Amazon Simple Notification Service (Amazon SNS)
         - publisher - communicate asynchronously with the subscribers by producing and sending a message to a topic
         - subscriber - consume or receive the message or notification over one of the supported protocols when they
                        are subscribed to the topic.
+
+Amazon Simple Email Service (Amazon SES)
+    - cost effective email service that organizations can use to send transactional email, marketing messages, or any type
+      of content to their customers
+    - It also can be used to receive messages and delivery them to an Amazon S3 bucket or publish notifications to Amazon SNS
