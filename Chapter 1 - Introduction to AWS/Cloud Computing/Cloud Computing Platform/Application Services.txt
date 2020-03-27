@@ -17,3 +17,10 @@ Amazon Elastic Transcoder
     - Media transcoding in the cloud
     - Highly scalable and cost-effective way for developers and businesses to convert media files from their source
       formats into version that will play back on devices like smartphones, tablets and PCs.
+
+Amazon Simple Notification Service (Amazon SNS)
+    - Web service that coordinates and manages the delivery or sending of messages to recipients
+    - There are two types of clients
+        - publisher - communicate asynchronously with the subscribers by producing and sending a message to a topic
+        - subscriber - consume or receive the message or notification over one of the supported protocols when they
+                       are subscribed to the topic.
