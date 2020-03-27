@@ -12,3 +12,8 @@ Amazon API Gateway
         - Authorization and access control
         - Monitoring
         - API version management
+
+Amazon Elastic Transcoder
+    - Media transcoding in the cloud
+    - Highly scalable and cost-effective way for developers and businesses to convert media files from their source
+      formats into version that will play back on devices like smartphones, tablets and PCs.
