@@ -1,0 +1,18 @@
+What is IAM?
+    - Allows you to manage users and their level of access to the AWS console
+        - Important to understand how it works
+            - For the exam
+            - For administrating a company's AWS account
+                - Setting up user accounts and their roles
+                - Granting access to different part of AWS platform
+    - Centralised control of your AWS account
+    - Shared Access to your AWS account
+    - Granular permission
+        - Control what users can see and what they are allow to operate on
+    - Identity Federation
+        - Active Directory, Facebook, Linkedin etc
+    - Multifactor Authentication
+    - Provides temporary access for users/devices and services where necessary
+    - Password rotation policy
+    - Integrate with many different AWS services
+    - Supports PCI DSS Compliance

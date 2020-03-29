@@ -6,6 +6,7 @@ Availability Zone
     - Data center with a whole bunch of servers
     - May be several data centres, but because they are close together, they are
       counted as 1 Availability zone
+    - Each with redundant power, networking and connectivity, housed in separate facilities
 
 Region
     - Geographical area
