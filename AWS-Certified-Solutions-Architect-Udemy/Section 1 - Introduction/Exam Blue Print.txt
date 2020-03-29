@@ -1,0 +1,8 @@
+Exam Blue Print
+    - 130 minutes in Length
+    - 60 Questions
+    - Multiple Choice
+    - Results are between 100 - 1000 with a passing score of 720
+    - Aim for 70%
+    - Qualification is valid for 2 years
+    - Scenario based questions
