@@ -1,0 +1,18 @@
+AWS Certificates
+    - Practitioner tier
+        - Certified Cloud Practitioner
+
+    - Associate Tier
+        - Certified Solutions Architect Associate
+        - Certified Developer Associate
+        - Certified Sysops Administrator Associate
+
+    - Professional Tier
+        - Certified Solutions Architect Professional
+        - Devops Professional
+
+    - Specialty Tier
+        - Advanced Networking
+        - Big Data
+        - Security
+        - Machine Learning
