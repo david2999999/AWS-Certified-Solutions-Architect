@@ -1,0 +1,25 @@
+AWS - High Level Services
+    - AWS Global Infrastructure
+        - Compute
+        - Storage
+        - Databases
+        - Migration and Transfer
+        - network and Content delivery
+        - Developer Tools
+        - Robotics
+        - Blockchain
+        - Satellite
+        - Management and Governance
+        - Media Services
+        - Machine Learning
+        - Analytics
+        - Security, Identity and Compliance
+        - Mobile
+        - AR and VR
+        - Application Integration
+        - AWS Cost Management
+        - Customer Engagement
+        - Business Applications
+        - Desktop and App Streaming
+        - IOT
+        - Game Development
