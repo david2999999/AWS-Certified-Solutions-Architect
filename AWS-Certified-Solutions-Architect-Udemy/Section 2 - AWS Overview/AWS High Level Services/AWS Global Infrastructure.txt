@@ -1,0 +1,12 @@
+AWS Global Infrastructure
+    - 19 regions and 57 Availability Zones - December 2018
+    - 5 more regions and 15 more AZ's for 2019
+
+Availability Zone
+    - Data center with a whole bunch of servers
+    - May be several data centres, but because they are close together, they are
+      counted as 1 Availability zone
+
+Region
+    - Geographical area
+    - Each region consists of 2 (or more) availability zones
