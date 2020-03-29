@@ -16,3 +16,16 @@ AWS Certificates
         - Big Data
         - Security
         - Machine Learning
+
+Difficulty Levels
+    - Certified Cloud Practitioner
+    - Certified Solutions Architect Associate
+    - Certified Sysops Administrator Associate
+    - Certified Developer Associate
+    - Security
+    - Big Data
+    - Advanced Networking
+    - Machine Learning
+    - Devops Professional
+    - Certified Solutions Architect Professional
+
